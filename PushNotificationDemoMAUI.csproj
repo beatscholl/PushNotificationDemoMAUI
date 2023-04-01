@@ -15,7 +15,7 @@
 		<ApplicationTitle>PushNotificationDemoMAUI</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.emergency.maui.prototype</ApplicationId>
+		<ApplicationId>com.companyname.pushnotificationdemomaui</ApplicationId>
 		<ApplicationIdGuid>DB669DD9-194C-4F9F-98E8-2F58C615A330</ApplicationIdGuid>
 
 		<!-- Versions -->
